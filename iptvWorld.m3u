@@ -65,11 +65,13 @@ https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8
 #EXTINF:-1 tvg-id="TED.us@SD" tvg-logo="https://i.imgur.com/KeIhwNP.png" group-title="Documentary",TED (1080p)
 https://d1b16tvvxk3tnu.cloudfront.net/TED.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary",National Geographic (720p)
-http://rezofoot.tv/NATIONAL-GEOGRAPHIC/index.m3u8
+http://40.160.24.53/NAT_GEO/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",National Geographic Wild (720p)
 http://40.160.24.53/NAT_GEO_WILD/index.m3u8
 #EXTINF:-1 tvg-id="History.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentary",History (720p)
 http://40.160.24.53/HISTORY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentary", Pawn Stars (720p) [Geo-blocked]
+https://pb-jo4rx96uyjcxx.akamaized.net/v1/aenetworks_pawnstars_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MagellanTVNow.us@SD" tvg-logo="https://i.imgur.com/gEraSp5.png" group-title="Documentary",MagellanTV Now (1080p)
 https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8
@@ -81,8 +83,6 @@ https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/
 https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk@US" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Documentary",BBC Earth (1080p)
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCAmerica.us@East" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="Documentary",BBC America (720p)
-http://23.239.31.26:8989/bbcamerica/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVScience.us@US" tvg-logo="https://i.imgur.com/uhunRoU.png" group-title="Documentary",TV Science
 https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
 #EXTINF:-1 tvg-id="NotioiTV.gr@SD" tvg-logo="https://i.imgur.com/Nq00n8h.png" group-title="Documentary",GR Notioi TV (1080p)
@@ -96,8 +96,6 @@ https://d3hqevbyoxtkoi.cloudfront.net/PBS_Travel.m3u8
 #EXTINF:-1 tvg-name="TOKYO MX チャンネル" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/108_mx.png" tvg-id="" tvg-chno="CH 108" tvg-country="JP" group-title="Documentary",TOKYO MX チャンネル
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tokyomx-cmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" group-title="Series", Pawn Stars (720p) [Geo-blocked]
-https://pb-jo4rx96uyjcxx.akamaized.net/v1/aenetworks_pawnstars_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="692057" tvg-logo="https://canvas-lb.tubitv.com/opts/t7SMobEbXiF0_Q==/48090b52-3410-4b0e-a2b1-7386e9700c1c/CHgQeDoFMS4xLjlAAQ==" group-title="Series",Alien Nation by DUST
 https://live-manifest.production-public.tubi.io/live/89665105-448b-4e13-b89a-127f3eed0e45/playlist.m3u8
 #EXTINF:-1 tvg-id="400000094" tvg-logo="https://canvas-lb.tubitv.com/opts/2U-aZ93Ctd_a2A==/dfdffa87-f1cf-4849-baab-6d55e3c3f3d6/CHgQeDoFMS4xLjlAAQ==" group-title="Series",UnXplained Zone
@@ -114,6 +112,8 @@ https://amg00627-banijaygroup-dealornodeal-samsungau-si7xg.amagi.tv/playlist/amg
 https://bbc-impossible-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AFV.us@SD" tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="Series",America’s Funniest Home Videos (1080p)
 https://d1mp1kdk5zi1ie.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCAmerica.us@East" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="Documentary",BBC America (720p)
+http://23.239.31.26:8989/bbcamerica/index.m3u8
 #EXTINF:-1 tvg-id="BBCFood.us@SD" tvg-logo="https://i.imgur.com/kcmHcSx.png" group-title="Series",BBC Food (1080p)
 https://d1e9r0b71zfwk7.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="GordonRamsaysHellsKitchen.us@SD" tvg-logo="https://i.imgur.com/WgN4T18.png" group-title="Series",Gordon Ramsay (720p)
@@ -137,14 +137,14 @@ https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau
 https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio m2o Tv" tvg-logo="https://i.imgur.com/wl30UFj.png" tvg-id="m2oTV.it" tvg-country="IT" group-title="Music",Radio m2o Tv
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1 tvg-name="Dance TV" tvg-logo="" tvg-id="" tvg-chno="4" tvg-country="HU" group-title="music",Dance TV
-https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-#EXTINF:-1 tvg-id="PanikTV.gr@SD" tvg-logo="https://i.imgur.com/13C3CPr.png" group-title="Music",GR Panik TV (1080p)
-https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
 #EXTINF:-1 tvg-name="DELUXE MUSIC" tvg-logo="https://i.imgur.com/E65GQN9.png" tvg-id="DeluxeMusic.de" tvg-chno="6" tvg-country="DE" group-title="Music",DELUXE MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-name="City TV Ⓢ" tvg-logo="https://i.imgur.com/BjRTbrU.png" tvg-id="City.bg" tvg-chno="8" tvg-country="BG" group-title="Music",City TV Ⓢ
 https://tv.city.bg/play/tshls/citytv/index.m3u8
+#EXTINF:-1 tvg-name="Dance TV" tvg-logo="" tvg-id="" tvg-chno="4" tvg-country="HU" group-title="music",Dance TV
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:-1 tvg-id="PanikTV.gr@SD" tvg-logo="https://i.imgur.com/13C3CPr.png" group-title="Music",GR Panik TV (1080p)
+https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
 #EXTINF:-1 tvg-id="NEWKPOP.us@SD" tvg-logo="https://i.imgur.com/B7ILXMc.png" group-title="Music",NEW KPOP (1080p)
 https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_086&ads.service_id=GB17000088V
 #EXTINF:-1 tvg-id="VevoLatino.us@SD" tvg-logo="https://i.imgur.com/D7SwmuB.png" group-title="Music",Vevo Latino (1080p)
@@ -226,8 +226,6 @@ https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
 #EXTINF:-1 tvg-id="Charge.us@SD" tvg-logo="https://i.imgur.com/1rxmu2u.png" group-title="Movies",Charge! (1080p)
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 
-#EXTINF:-1 tvg-id="RomedyNow.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ROMEDY_NOW/images/LOGO_HD/image.png" group-title="Movies",Romedy Now (576p)
-http://103.157.248.140:8000/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="TheMovieClub.in@HD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20260325T012318SQUARE.png" group-title="Movies",The Movie Club (1080p)
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 #EXTINF:-1 tvg-id="TheMovieClub.in@Plus2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN40000100Y_20260204T004058SQUARE.png" group-title="Movies",The Movie Club +2 (1080p)
