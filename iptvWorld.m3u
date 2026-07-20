@@ -66,6 +66,11 @@ https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8
 https://d1b16tvvxk3tnu.cloudfront.net/TED.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary",National Geographic (720p)
 http://rezofoot.tv/NATIONAL-GEOGRAPHIC/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",National Geographic Wild (720p)
+http://40.160.24.53/NAT_GEO_WILD/index.m3u8
+#EXTINF:-1 tvg-id="History.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentary",History (720p)
+http://40.160.24.53/HISTORY_CHANNEL/index.m3u8
+
 #EXTINF:-1 tvg-id="MagellanTVNow.us@SD" tvg-logo="https://i.imgur.com/gEraSp5.png" group-title="Documentary",MagellanTV Now (1080p)
 https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="INWILD.nl@SD" tvg-logo="https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png" group-title="Documentary",INWILD (1080p)
@@ -78,7 +83,7 @@ https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-a
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCAmerica.us@East" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="Documentary",BBC America (720p)
 http://23.239.31.26:8989/bbcamerica/index.m3u8
-#EXTINF:-1 tvg-id="PlutoTVScience.us@US" tvg-logo="https://i.imgur.com/uhunRoU.png" group-title="Documentary",Pluto TV Science
+#EXTINF:-1 tvg-id="PlutoTVScience.us@US" tvg-logo="https://i.imgur.com/uhunRoU.png" group-title="Documentary",TV Science
 https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
 #EXTINF:-1 tvg-id="NotioiTV.gr@SD" tvg-logo="https://i.imgur.com/Nq00n8h.png" group-title="Documentary",GR Notioi TV (1080p)
 https://srv.streamserver.gr:3451/stream/play.m3u8
@@ -88,8 +93,11 @@ http://185.102.171.218/ViasatExplorer/index.m3u8
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="PBSTravel.us@SD" tvg-logo="https://i.imgur.com/A6GXhta.png" group-title="Documentary",PBS Travel (1080p)
 https://d3hqevbyoxtkoi.cloudfront.net/PBS_Travel.m3u8
+#EXTINF:-1 tvg-name="TOKYO MX チャンネル" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/108_mx.png" tvg-id="" tvg-chno="CH 108" tvg-country="JP" group-title="Documentary",TOKYO MX チャンネル
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tokyomx-cmaf-rakutenjp/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" group-title="Series", Pawn Stars (720p) [Geo-blocked]
+https://pb-jo4rx96uyjcxx.akamaized.net/v1/aenetworks_pawnstars_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="692057" tvg-logo="https://canvas-lb.tubitv.com/opts/t7SMobEbXiF0_Q==/48090b52-3410-4b0e-a2b1-7386e9700c1c/CHgQeDoFMS4xLjlAAQ==" group-title="Series",Alien Nation by DUST
 https://live-manifest.production-public.tubi.io/live/89665105-448b-4e13-b89a-127f3eed0e45/playlist.m3u8
 #EXTINF:-1 tvg-id="400000094" tvg-logo="https://canvas-lb.tubitv.com/opts/2U-aZ93Ctd_a2A==/dfdffa87-f1cf-4849-baab-6d55e3c3f3d6/CHgQeDoFMS4xLjlAAQ==" group-title="Series",UnXplained Zone
@@ -112,6 +120,35 @@ https://d1e9r0b71zfwk7.cloudfront.net/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/c8364f36-c60b-4a39-8d86-0b92db4611c0/index.m3u8
 #EXTINF:-1 tvg-id="WipeoutXtra.us@SD" tvg-logo="https://ontabs.com/uploads/images/5324/wipeout-256.png" group-title="Series",Wipeout Xtra (720p)
 https://aegis-cloudfront-1.tubi.video/e0a81cae-d483-46f9-aaa1-d0b87faa13cf/playlist.m3u8
+#EXTINF:-1 tvg-name="Arirang" tvg-logo="https://i.imgur.com/RuHZ6Dx.png" tvg-id="ArirangTV.kr" tvg-chno="18" tvg-country="KR" group-title="Series",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NRG91.gr@SD" tvg-logo="https://i.imgur.com/1Zl1OJ5.png" group-title="Music",GR NRG 91 (720p) [Not 24/7]
+http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+#EXTINF:-1 tvg-name="1Mus" tvg-logo="https://i.imgur.com/PozF9MT.png" tvg-id="FirstMusicChannel.by" tvg-chno="1" tvg-country="BY" group-title="Music",1Mus
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 tvg-name="Pervyy Muzykal'nyy BY Ⓢ" tvg-logo="https://i.imgur.com/7tFiG6S.jpg" tvg-id="FirstMusicChannel.by" tvg-chno="9" tvg-country="BY" group-title="Music",Pervyy Muzykal'nyy BY Ⓢ
+http://rtmp.one.by:1200
+#EXTINF:-1 tvg-name="Oxygen Music" tvg-logo="" tvg-id="" tvg-chno="3" tvg-country="HU" group-title="music",Oxygen Music
+https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
+#EXTINF:-1 tvg-id="Vevo2K.us@SD" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="Music",Vevo 2K (1080p)
+https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="VevoPop.us@SD" tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="Music",Vevo Pop (1080p)
+https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio m2o Tv" tvg-logo="https://i.imgur.com/wl30UFj.png" tvg-id="m2oTV.it" tvg-country="IT" group-title="Music",Radio m2o Tv
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 tvg-name="Dance TV" tvg-logo="" tvg-id="" tvg-chno="4" tvg-country="HU" group-title="music",Dance TV
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:-1 tvg-id="PanikTV.gr@SD" tvg-logo="https://i.imgur.com/13C3CPr.png" group-title="Music",GR Panik TV (1080p)
+https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
+#EXTINF:-1 tvg-name="DELUXE MUSIC" tvg-logo="https://i.imgur.com/E65GQN9.png" tvg-id="DeluxeMusic.de" tvg-chno="6" tvg-country="DE" group-title="Music",DELUXE MUSIC
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-name="City TV Ⓢ" tvg-logo="https://i.imgur.com/BjRTbrU.png" tvg-id="City.bg" tvg-chno="8" tvg-country="BG" group-title="Music",City TV Ⓢ
+https://tv.city.bg/play/tshls/citytv/index.m3u8
+#EXTINF:-1 tvg-id="NEWKPOP.us@SD" tvg-logo="https://i.imgur.com/B7ILXMc.png" group-title="Music",NEW KPOP (1080p)
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_086&ads.service_id=GB17000088V
+#EXTINF:-1 tvg-id="VevoLatino.us@SD" tvg-logo="https://i.imgur.com/D7SwmuB.png" group-title="Music",Vevo Latino (1080p)
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="YRFMusic.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="Music",YRF Music (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
@@ -123,32 +160,6 @@ https://cdn-2.pishow.tv/live/415/master.m3u8
 https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:-1 tvg-id="JooMusic.pk@SD" tvg-logo="https://i.imgur.com/KHuKQQL.png" group-title="Music",PK JooMusic (720p)
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Vevo2K.us@SD" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="Music",Vevo 2K (1080p)
-https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="VevoPop.us@SD" tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="Music",Vevo Pop (1080p)
-https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="NRG91.gr@SD" tvg-logo="https://i.imgur.com/1Zl1OJ5.png" group-title="Music",GR NRG 91 (720p) [Not 24/7]
-http://tv.nrg91.gr:1935/onweb/live/master.m3u8
-#EXTINF:-1 tvg-id="PanikTV.gr@SD" tvg-logo="https://i.imgur.com/13C3CPr.png" group-title="Music",GR Panik TV (1080p)
-https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
-#EXTINF:-1 tvg-id="NEWKPOP.us@SD" tvg-logo="https://i.imgur.com/B7ILXMc.png" group-title="Music",NEW KPOP (1080p)
-https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_086&ads.service_id=GB17000088V
-#EXTINF:-1 tvg-name="Arirang" tvg-logo="https://i.imgur.com/RuHZ6Dx.png" tvg-id="ArirangTV.kr" tvg-chno="18" tvg-country="KR" group-title="Music",Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="1Mus" tvg-logo="https://i.imgur.com/PozF9MT.png" tvg-id="FirstMusicChannel.by" tvg-chno="1" tvg-country="BY" group-title="Music",1Mus
-http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:-1 tvg-name="Pervyy Muzykal'nyy BY Ⓢ" tvg-logo="https://i.imgur.com/7tFiG6S.jpg" tvg-id="FirstMusicChannel.by" tvg-chno="9" tvg-country="BY" group-title="Music",Pervyy Muzykal'nyy BY Ⓢ
-http://rtmp.one.by:1200
-#EXTINF:-1 tvg-name="Oxygen Music" tvg-logo="" tvg-id="" tvg-chno="3" tvg-country="HU" group-title="music",Oxygen Music
-https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
-#EXTINF:-1 tvg-name="DELUXE MUSIC" tvg-logo="https://i.imgur.com/E65GQN9.png" tvg-id="DeluxeMusic.de" tvg-chno="6" tvg-country="DE" group-title="Music",DELUXE MUSIC
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-name="Dance TV" tvg-logo="" tvg-id="" tvg-chno="4" tvg-country="HU" group-title="music",Dance TV
-https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-#EXTINF:-1 tvg-name="City TV Ⓢ" tvg-logo="https://i.imgur.com/BjRTbrU.png" tvg-id="City.bg" tvg-chno="8" tvg-country="BG" group-title="Music",City TV Ⓢ
-https://tv.city.bg/play/tshls/citytv/index.m3u8
-#EXTINF:-1 tvg-id="VevoLatino.us@SD" tvg-logo="https://i.imgur.com/D7SwmuB.png" group-title="Music",Vevo Latino (1080p)
-https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TennisChannel.us@SD" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Sports",Tennis Channel (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
@@ -245,7 +256,4 @@ http://217.20.112.199:8080/maatv/index.m3u8
 #EXTINF:-1 tvg-id="StarMaaMovies.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143826_ld_h15_aa.png?lock=720x540" http-referrer="https://tulnit.com" group-title="Movies",Star Maa Movies HD (1080p)
 #EXTVLCOPT:http-referrer=https://tulnit.com
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/maamovies_live_https/index.m3u8
-
-
-
 
